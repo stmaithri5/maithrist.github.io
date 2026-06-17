@@ -44,7 +44,7 @@ Bachelor of Engineering (CSE)
 - Learning New Technologies
 
 ## Contact
-GitHub: https://github.com/pragathivhegde
+GitHub: https://github.com/maithrist
 
 ## Future Goal
 Become a Data Scientist and work on AI and Data Analytics projects.
